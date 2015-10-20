@@ -1,0 +1,21 @@
+{
+  "name": "polymer",
+  "description": "",
+  "main": "server.js",
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "core-ajax": "Polymer/core-ajax#~0.5.6",
+    "core-header-panel": "Polymer/core-header-panel#~0.5.6",
+    "paper-tabs": "Polymer/paper-tabs#~0.5.6"
+  }
+}
